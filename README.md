@@ -11,6 +11,8 @@ direct messages and join group channels.
 IRC clients connect to IRC servers in order to join channels. IRC servers are connected
 together to form a network.
 
+![image](https://github.com/cptbboy/irc/assets/68233391/2ed59ec4-d612-43fc-848a-c61aad23f14e)
+
 ## Usage
 ``make``
 
